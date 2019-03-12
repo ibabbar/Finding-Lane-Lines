@@ -1,4 +1,3 @@
-
 # Finding Lane Lines in Road 
 In this project, I used Python and OpenCV to find lane lines in a road video stream. 
 
